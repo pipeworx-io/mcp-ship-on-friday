@@ -1,9 +1,9 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/ship-on-friday",
-  "title": "ship on friday",
-  "description": "ship-on-friday MCP — wraps StupidAPIs (requires X-API-Key)",
-  "version": "0.1.0",
+  "title": "Ship On Friday",
+  "description": "ship-on-friday MCP — wraps StupidAPIs (keyless — no credential needed)",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/ship-on-friday",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-ship-on-friday",
